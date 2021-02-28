@@ -15,4 +15,10 @@ In this analysis we are trying to predict the credit risk of applicants. To obta
 **SMOTEENN:** this models displays a 62% accuracy score with a 1% precision and 70% recalll on high risk applicants.
 <img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/SMOTEENIN.png">
 
+**Balance Random Forest:** this models displays a 79% accuracy score with a 3% precision and 70% recalll on high risk applicants.
+<img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/Radom_forest.png">
+
+**Easy Ensemble:** this models displays a 93% accuracy score with a 9% precision and 92% recalll on high risk applicants.
+<img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/adaboost.png">
+
 # Summary
