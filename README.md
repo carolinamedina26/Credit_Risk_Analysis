@@ -6,5 +6,13 @@ In this analysis we are trying to predict the credit risk of applicants. To obta
 **Oversampling:** this models displays a 65% accuracy score with a 1% precision and 61% recalll on high risk applicants. 
 <img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/Naive_oversampling.png">
 
+**Oversampling:** this models displays a 62% accuracy score with a 1% precision and 61% recalll on high risk applicants. 
+<img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/SMOTE_sampling.png">
+
+**Undersampling:** this models displays a 62% accuracy score with a 1% precision and 61% recalll on high risk applicants, which is the same performance of the oversampling model. 
+<img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroids.png">
+
+**SMOTEENN:** this models displays a 62% accuracy score with a 1% precision and 70% recalll on high risk applicants.
+<img src="https://github.com/carolinamedina26/Credit_Risk_Analysis/blob/main/Resources/SMOTEENIN.png">
 
 # Summary
