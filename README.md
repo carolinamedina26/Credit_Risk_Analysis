@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-In this analysis we are trying to predict the credit risk of applicants. To obtain this information we have used six different machine learning models to obtain the highness performance assessment. 
+Due to the advanced technology associated with Big Data, data availability and computing power, most banks or lending institutions are renewing their business models. Credit risk predictions, monitoring, model reliability and effective loan processing are key to decision-making and transparency. In this project, we build six different machine learning models to obtain the highness performance assessment on the loan default predicting probability. 
 
 # Results 
 **Oversampling:** this models displays a 65% accuracy score with a 1% precision and 61% recall on high risk applicants. 
